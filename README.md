@@ -120,21 +120,21 @@ This is a list of things you need to run and test php locally with vscode.
 
 #### XAMPP
 
-1. Download XAMPP from https://www.apachefriends.org/
+1. Download XAMPP from ```https://www.apachefriends.org/```
 2. Install XAMPP
-3. Change XAMPP editor folder in config to 'C:\<path to VS Code executable>\Microsoft VS Code\Code.exe'
-4. Install 'PHP Server' extension by 'brapifra' in VS Code.
+3. Change XAMPP editor folder in config to ```C:\<path to VS Code executable>\Microsoft VS Code\Code.exe```
+4. Install ```PHP Server``` extension by ```brapifra``` in VS Code.
 5. Edit vscode config setting:
    
-  a) "php.validate.executablePath": "C:/xampp/php/php.exe",
+  a) ```"php.validate.executablePath": "C:/xampp/php/php.exe"```
   
-  b) "php.executablePath": "C:/xampp/php/php.exe" ???????
+  b) ```"php.executablePath": "C:/xampp/php/php.exe"```
   
-  c) "phpserver.phpPath": "C:/xampp/php/php.exe"
+  c) ```"phpserver.phpPath": "C:/xampp/php/php.exe"```
   
   In settings.json:
   
-  d) “phpserver.phpConfigPath“: “C:\xampp\php\php.ini“
+  d) ```“phpserver.phpConfigPath“: “C:\xampp\php\php.ini“```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
