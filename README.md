@@ -264,5 +264,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white
+[php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=black
 [php-url]: https://php.net
