@@ -98,6 +98,7 @@ The framework is supported by XAMPP for its Apache webserver and php interpreter
 
 
 [![php][php.com]][php-url]
+[![xampp][apachefriends.org]][xampp-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,5 +239,5 @@ Use this space to list resources you find helpful and would like to give credit 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [php.com]: https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white
 [php-url]: https://php.net
-[xampp.com]: https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=xampp&logoColor=white
+[apachefriends.org]: https://img.shields.io/badge/PHP-orange?style=for-the-badge&logo=xampp&logoColor=white
 [xampp-url]: https://apachefriends.org
