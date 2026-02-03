@@ -121,23 +121,15 @@ This is a list of things you need to run and test php locally with vscode.
 #### XAMPP
 
 1. Download XAMPP from https://www.apachefriends.org/
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
+2. Install XAMPP
+3. Change XAMPP editor folder in config to 'C:\<path to VS Code executable>\Microsoft VS Code\Code.exe'
+4. Install 'PHP Server' extension by 'brapifra' in VS Code.
+5. Edit vscode config setting:
+  a) "php.validate.executablePath": "C:/xampp/php/php.exe",
+  b) "php.executablePath": "C:/xampp/php/php.exe" ???????
+  c) "phpserver.phpPath": "C:/xampp/php/php.exe"
+  In settings.json:
+  d) “phpserver.phpConfigPath“: “C:\xampp\php\php.ini“
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
