@@ -144,7 +144,7 @@ This is a list of things you need to run and test php locally with vscode.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* To get yourself up and running, use ```<?php echo'Hello Universe';?>```
+* To get yourself up and running. create a file in VS Code called ```<filename.php>```, and write the following code in the file ```<?php echo'Hello Universe';?>```
 
 * Save your file in ```C:/xampp/htdocs/<project foldername>/<filename>```
 
