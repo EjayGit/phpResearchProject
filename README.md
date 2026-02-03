@@ -144,7 +144,7 @@ This is a list of things you need to run and test php locally with vscode.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To get yourself up and running, use ('<?php echo'Hello Universe';?>')
+To get yourself up and running, use ```php<?php echo'Hello Universe';?>```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
