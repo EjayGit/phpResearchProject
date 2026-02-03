@@ -26,7 +26,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">PHP and VS Code</h3>
+  <h3 align="center">PHP and data fetching in VS Code</h3>
 
   <p align="center">
     An awesome document that details the essentials of getting PHP and Laravel up and running!
