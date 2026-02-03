@@ -126,7 +126,7 @@ This is a list of things you need to run and test php locally with vscode.
 4. Install ```PHP Server``` extension by ```brapifra``` in VS Code.
 5. Edit vscode config setting:
    
-  a) ```"php.validate.executablePath": "C:/xampp/php/php.exe"```
+  a) ```"php.validate.executablePath": "C:/xampp/php/php.exe"
   
   b) ```"php.executablePath": "C:/xampp/php/php.exe"```
   
