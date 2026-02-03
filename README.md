@@ -134,7 +134,7 @@ This is a list of things you need to run and test php locally with vscode.
   
   In settings.json:
   
-  d) ```“phpserver.phpConfigPath“: “C:\xampp\php\php.ini“```
+  d) ```"phpserver.phpConfigPath": "C:\\xampp\\php\\php.ini"```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
