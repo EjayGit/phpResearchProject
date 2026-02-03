@@ -116,7 +116,7 @@ This is a list of things you need to run and test php locally with vscode.
 * XAMPP
 * VS Code
 
-### Installation
+### Installation for Windows
 
 #### XAMPP
 
@@ -139,7 +139,9 @@ This is a list of things you need to run and test php locally with vscode.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+#### VS Code
 
+1. Download VS Code from ...
 
 <!-- USAGE EXAMPLES -->
 ## Usage
