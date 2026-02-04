@@ -64,7 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#php use">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#conclusions">Conclusions</a></li>
   </ol>
@@ -133,15 +133,14 @@ This is a list of things you need to run and test php locally with vscode.
   
   b) ```"phpserver.phpConfigPath": "C:/xampp/php/php.ini"```
 
-
 #### API 
 
 1. Set up a simple API via Vercel by preparing a file with a JSON
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- PHP Use EXAMPLES -->
+## PHP Use
 
 * To get yourself up and running. create a file in VS Code called ```<filename.php>```, and write the following code in the file ```<?php echo'Hello Universe';?>```
 
