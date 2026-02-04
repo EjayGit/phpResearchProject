@@ -113,10 +113,12 @@ To set up your project locally please follow the following instructions.
 
 This is a list of things you need to run and test php locally with vscode.
 
-* XAMPP
 * VS Code
+* XAMPP
 
 ### Installation for Windows
+
+<video src="https://www.youtube.com/watch?v=OKIw5_d0YEQ" controls style="max-width: 730px;"></video>
 
 #### VS Code
 
@@ -134,6 +136,10 @@ This is a list of things you need to run and test php locally with vscode.
   
   b) ```"phpserver.phpConfigPath": "C:/xampp/php/php.ini"```
 
+
+#### API 
+
+1. Set up a simple API via Vercel by preparing a file with a JSON
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -158,11 +164,10 @@ This is a list of things you need to run and test php locally with vscode.
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
+- [x] Prepare VsCode and XAMPP
+- [x] Demo pull from API using cURL
+- [ ] Document cURL pull
+- [ ] 
     - [ ] Chinese
     - [ ] Spanish
 
