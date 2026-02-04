@@ -34,7 +34,7 @@
   <h3 align="center">PHP data fetching in VS Code</h3>
 
   <p align="center">
-    An awesome document that details the essentials of getting PHP and Laravel up and running!
+    An awesome document that details the essentials of getting PHP up and running!
     <br />
     <br />
     <a href="https://github.com/EjayGit/week-10/presentation.odp">View Presentation</a>
