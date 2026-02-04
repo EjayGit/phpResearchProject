@@ -118,7 +118,6 @@ This is a list of things you need to run and test php locally with vscode.
 
 ### Installation for Windows
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OKIw5_d0YEQ/0.jpg)](https://www.youtube.com/watch?v=OKIw5_d0YEQ)
 
 #### VS Code
 
@@ -155,6 +154,11 @@ This is a list of things you need to run and test php locally with vscode.
 * View ```http://localhost:3000/<filename>```
 
 * To stop the server, right click the code file window and select ```PHP Server: Stop server```
+
+* To demonstrate the code for using cURL in PHP, please see the following video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OKIw5_d0YEQ/0.jpg)](https://www.youtube.com/watch?v=OKIw5_d0YEQ)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
