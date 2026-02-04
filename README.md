@@ -118,7 +118,7 @@ This is a list of things you need to run and test php locally with vscode.
 
 ### Installation for Windows
 
-<video src="https://www.youtube.com/watch?v=OKIw5_d0YEQ" controls style="max-width: 730px;"></video>
+<iframe width="1399" height="787" src="https://www.youtube.com/embed/OKIw5_d0YEQ" title="PHP + curl - A Simple example of how to use cURL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### VS Code
 
