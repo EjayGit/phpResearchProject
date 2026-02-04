@@ -175,6 +175,11 @@ This is a list of things you need to run and test php locally with vscode.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- DOCUMENTATION -->
+## Documentation
+
+* Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
+* A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and www.php.net/manual.
 
 <!-- CONCLUSIONS -->
 ## Conclusions
