@@ -64,7 +64,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#php-use">Usage</a></li>
+    <li><a href="#php-use">PHP Use</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#conclusions">Conclusions</a></li>
   </ol>
@@ -161,6 +161,13 @@ This is a list of things you need to run and test php locally with vscode.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- DOCUMENTATION -->
+## Documentation
+
+* Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
+* A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and <a href="https://www.php.net/manual">PHP Docs</a>. These provide a good guide to PHP and its uses.
+* Ironically cURL is not in the PHP docs, but this is because it is not a PHP specific. It can bind to over 50 different languages.
+
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -173,12 +180,6 @@ This is a list of things you need to run and test php locally with vscode.
 - [ ] Document database fetch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- DOCUMENTATION -->
-## Documentation
-
-* Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
-* A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and <a href="https://www.php.net/manual">PHP Docs</a>.
 
 <!-- CONCLUSIONS -->
 ## Conclusions
