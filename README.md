@@ -179,7 +179,7 @@ This is a list of things you need to run and test php locally with vscode.
 ## Documentation
 
 * Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
-* A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and www.php.net/manual.
+* A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and <a href="https://www.php.net/manual>PHP Docs</a>.
 
 <!-- CONCLUSIONS -->
 ## Conclusions
