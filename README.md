@@ -93,7 +93,7 @@ Because php runs everywhere - almost every shared hosting provider runs php - th
 
 ### Built With
 
-The framework is supported by XAMPP for its Apache webserver and php interpreter.
+The project is supported by XAMPP for its php interpreter.
 
 [![php][php.com]][php-url]
 
