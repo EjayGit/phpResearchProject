@@ -144,7 +144,7 @@ This is a list of things you need to run and test php locally with vscode.
 
 ### Remote Database Connections
 * There are a number of resources we recommend for connecting to a remote database with PHP. Here are the key ones to read:
-  * <a href="https://stackoverflow.com/questions/4683554/remotely-connecting-to-a-mysql-database">Remote connectino to MySQL database</a>
+  * <a href="https://stackoverflow.com/questions/4683554/remotely-connecting-to-a-mysql-database">Remote connection to MySQL database</a>
   * <a href="https://supabase.com/docs/guides/troubleshooting/resolving-database-hostname-and-managing-your-ip-address-pVlwE0">Resolving database hostname</a>
   * <a href="https://www.w3schools.com/php/php_constants.asp">Defining database constraints</a>
 * To further help with mySQL, we recommend the following references:
