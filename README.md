@@ -128,11 +128,6 @@ This is a list of things you need to run and test php locally with vscode.
 
 * To stop the server, right click the VS Code file window and select ```PHP Server: Stop server```
 
-* To demonstrate the code for using cURL in PHP, please see the following video:
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OKIw5_d0YEQ/0.jpg)](https://www.youtube.com/watch?v=OKIw5_d0YEQ)
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -148,6 +143,10 @@ This is a list of things you need to run and test php locally with vscode.
 
 ### CURL
 * Ironically, given we have based our brief on using cURL in PHP, cURL is not in the PHP docs, but this is because it is not PHP specific. It can bind to over 50 different languages.
+* To following along with the code for using cURL in PHP, please see the following video:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/OKIw5_d0YEQ/0.jpg)](https://www.youtube.com/watch?v=OKIw5_d0YEQ)
+
 
 ### Remote Database Connections
 * There are a number of resources we recommend for connecting to a remote database with PHP. Here are the key ones to read:
