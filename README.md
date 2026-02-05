@@ -139,9 +139,22 @@ This is a list of things you need to run and test php locally with vscode.
 <!-- RESOURCES -->
 ## Resources
 
+### XAMPP
+
+
+
+### PHP
 * Beyond the above, learning PHP and cURL was a relatively simple task due to the amount of help available.
 * A good place to start would be a combination of <a href="https://www.w3schools.com/php/default.asp">w3schools</a>, and <a href="https://www.php.net/manual">PHP Docs</a>. These provide a good guide to PHP and its uses.
-* Ironically cURL is not in the PHP docs, but this is because it is not a PHP specific. It can bind to over 50 different languages.
+
+### CURL
+* Ironically, given we have based our brief on using cURL in PHP, cURL is not in the PHP docs, but this is because it is not PHP specific. It can bind to over 50 different languages.
+
+### Remote Database Connections
+* 
+
+
+
 * To help with mySQL, we used the following references: <a href="https://www.w3schools.com/mysql/mysql_where.asp">mySQL SELECT and WHERE</a> and <a href="https://mariadb.com/resources/blog/developer-quickstart-php-mysqli-and-mariadb/">Maria DB</a>.
 
 
