@@ -88,8 +88,7 @@ This is a list of things you need to run and test php locally with vscode.
 1. Download VS Code from ```https://code.visualstudio.com/download```
 2. Install ```PHP Server``` extension by ```brapifra``` in VS Code.
 
-![Alt text](./php server.webp)
-![alt text]('https://github.com/EjayGit/README-Template/phpserver.webp?raw=true')
+![php server image](https://github.com/EjayGit/README-Template/phpserver.webp)
 
 
 #### XAMPP
