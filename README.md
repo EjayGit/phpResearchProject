@@ -107,12 +107,6 @@ This is a list of things you need to run and test php locally with vscode.
 
 ![php server image](https://github.com/EjayGit/README-Template/blob/main/vsconfig.png)
 
-#### Preparing an test API
-
-1. Set up a simple API via Vercel by preparing a file with a JSON structure.
-2. Upload file to Github repository.
-3. Connect Vercel to this repository, deploy, and await for the magic to happen.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- PHPUse -->
@@ -170,8 +164,8 @@ This is a list of things you need to run and test php locally with vscode.
 - [x] Document VS COde and XAMPP setup
 - [x] Demo fetch from API using cURL
 - [x] Document cURL pull
-- [ ] Demo fetch from database
-- [ ] Document database fetch
+- [x] Demo fetch from database
+- [x] Document database fetch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
