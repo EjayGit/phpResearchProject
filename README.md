@@ -8,11 +8,11 @@
             src="https://www.php.net/images/logos/new-php-logo.svg"
             width="150">
     </a>
-</div>
+  </div>
 
   <h3>PHP data fetching in VS Code</h3>
-
 </div>
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
