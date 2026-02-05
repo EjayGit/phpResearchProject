@@ -105,7 +105,7 @@ This is a list of things you need to run and test php locally with vscode.
   
   b) ```"phpserver.phpConfigPath": "C:/xampp/php/php.ini"```
 
-![php server image](https://github.com/EjayGit/README-Template/blob/main/vsconfig.webp)
+![php server image](https://github.com/EjayGit/README-Template/blob/main/vsconfig.png)
 
 #### Preparing an test API
 
