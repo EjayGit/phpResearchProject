@@ -111,7 +111,7 @@ This is a list of things you need to run and test php locally with vscode.
 
 1. Set up a simple API via Vercel by preparing a file with a JSON structure.
 2. Upload file to Github repository.
-3. Connect Vercel to this repository, deploy, and await the magic to happen.
+3. Connect Vercel to this repository, deploy, and await for the magic to happen.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
