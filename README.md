@@ -12,7 +12,7 @@
 
   <h3>PHP data fetching in VS Code</h3>
 
-
+</div>
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -36,7 +36,6 @@
     <li><a href="#conclusions">Conclusions</a></li>
   </ol>
 </details>
-</div>
 
 
 <!-- ABOUT THE PROJECT -->
